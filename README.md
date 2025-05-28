@@ -6,11 +6,7 @@
 
 ### 🟠 About me
 
-I am a graphic designer and front-end developer with a strong passion for creating visually appealing, functional, and user-centered experiences.  
-My approach blends design and technology to bring clean, intuitive, and modern interfaces to life.  
-I have experience with tools such as Adobe Creative Suite, Sketch, and Figma, along with strong knowledge of HTML, CSS, and JavaScript.  
-This allows me to turn ideas into cohesive visual solutions that not only look great but also perform seamlessly.  
-I am always motivated to take on new creative challenges and collaborate with teams that value the balance between aesthetics and functionality, always aiming to deliver high-impact results.
+Soy diseñador gráfico y desarrollador front-end con una sólida trayectoria en la creación de experiencias visuales atractivas, funcionales y centradas en el usuario. Mi enfoque integra diseño y tecnología para desarrollar interfaces limpias, intuitivas y contemporáneas. Poseo experiencia en herramientas como Adobe Creative Suite, Sketch y Figma, así como un profundo conocimiento de HTML, CSS y JavaScript. Esta combinación me permite transformar ideas en soluciones visuales coherentes que no solo destacan por su estética, sino también por su rendimiento eficiente. Estoy constantemente motivado para asumir nuevos desafíos creativos y colaborar con equipos que valoran el equilibrio entre estética y funcionalidad, con el objetivo de lograr resultados de alto impacto.
 
 ---
 
@@ -26,7 +22,7 @@ I am always motivated to take on new creative challenges and collaborate with te
       <img src="Iconos/Sketchup-Light.svg" width="50px">
     </td>
     <td align="center">
-      <strong><span style="color:orange">Front-End Developer Skills</span></strong><br><br>
+      <strong><span style="color:orange">Programmer skills</span></strong><br><br>
       <img src="Iconos/Github-Light.svg" width="50px">
       <img src="Iconos/Bash-Light.svg" width="50px">
       <img src="Iconos/Git.svg" width="50px">
@@ -38,17 +34,9 @@ I am always motivated to take on new creative challenges and collaborate with te
 
 ---
 
-## 👨‍💻 Mis proyectos de developer
+## 👨‍💻 Página web con mis proyectos
+https://jmfdesigner.github.io/jdesign/
 
-- Proyecto 1 - Descripción  
-- Proyecto 2 - Descripción
-
----
-
-## 🎨 Mis proyectos de diseño gráfico e ilustración
-
-- Proyecto A - Descripción  
-- Proyecto B - Descripción
 
 <!--
 **JMFDesigner/JMFDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
